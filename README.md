@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=abdulaziz27&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🚀 About Me
-Passionate full-stack developer skilled in HTML, CSS (Tailwind), Laravel, Flutter, ReactJs, Python, and Odoo ERP.  
+Passionate software engineer skilled in HTML, CSS (Tailwind), Laravel, Flutter, ReactJs, Python, and Odoo ERP.  
 I love building web & mobile apps and integrating APIs that make real impact.  
 📫 Reach me: [itsabdulaziz3@gmail.com](mailto:itsabdulaziz3@gmail.com)
 
@@ -28,13 +28,13 @@ I love building web & mobile apps and integrating APIs that make real impact.
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdulaziz27/" target="_blank">
+  <a href="https://www.linkedin.com/in/itsabdulaziz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/abdulaziz27/" target="_blank">
+  <a href="https://www.instagram.com/imdulziz/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:itsabdulaziz3@gmail.com">
+  <a href="mailto:abdulazizz.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
