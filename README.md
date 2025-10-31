@@ -20,7 +20,9 @@ Let's build something amazing together! 🚀
 
 ---
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdulaziz27&theme=algolia&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulaziz27&theme=algolia&margin-w=10&margin-h=10" alt="Trophy" />
+</p>
 
 ---
