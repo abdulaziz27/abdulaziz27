@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Abdul Aziz
+# Hi, I’m Abdul Aziz
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdulaziz27&label=Profile%20views&color=0e75b6&style=flat)
 
