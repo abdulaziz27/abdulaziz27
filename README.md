@@ -5,7 +5,7 @@
 ## 🚀 About Me
 Passionate software engineer skilled in HTML, CSS (Tailwind), Laravel, Flutter, ReactJs, Python, and Odoo ERP.  
 I love building web & mobile apps and integrating APIs that make real impact.  
-📫 Reach me: [itsabdulaziz3@gmail.com](mailto:itsabdulaziz3@gmail.com)
+📫 Reach me: [abdulazizz.dev@gmail.com](mailto:abdulazizz.dev@gmail.com)
 
 ---
 
