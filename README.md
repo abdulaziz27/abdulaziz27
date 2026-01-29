@@ -2,14 +2,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdulaziz27&label=Profile%20views&color=0e75b6&style=flat)
 
-## 🚀 About Me
+## About Me
 Passionate software engineer skilled in HTML, CSS (Tailwind), Laravel, Flutter, ReactJs, Python, and Odoo ERP.  
 I love building web & mobile apps and integrating APIs that make real impact.  
-📫 Reach me: [abdulazizz.dev@gmail.com](mailto:abdulazizz.dev@gmail.com)
+Reach me: [abdulazizz.dev@gmail.com](mailto:abdulazizz.dev@gmail.com)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdulaziz27&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdulaziz27&layout=compact&langs_count=8&theme=algolia"/>
@@ -18,7 +18,7 @@ I love building web & mobile apps and integrating APIs that make real impact.
 
 ---
 
-### 🌈 Random Quote
+### Random Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 ---
